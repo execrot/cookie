@@ -1,0 +1,17 @@
+{
+  "name": "light/cookie",
+  "authors": [
+    {
+      "name": "Edward Komissarov",
+      "email": "execrot@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Light\\Cookie\\": "src/"
+    }
+  }
+}
